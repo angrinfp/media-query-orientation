@@ -15,7 +15,7 @@ body {
 	border: 1px solid blue;
 }
 
-@media (orientation: landscape) {
+@media (orientation: portrait) {
 	.body {
 		flex-direction: column;
 	}
